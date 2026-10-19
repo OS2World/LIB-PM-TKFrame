@@ -1,0 +1,1 @@
+icc /B"/pmtype:pm" test.c

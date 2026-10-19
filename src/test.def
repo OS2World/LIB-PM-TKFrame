@@ -1,0 +1,5 @@
+NAME TEST WINDOWAPI
+IMPORTS
+  tkframe._DLL_InitTerm
+  tkframe.TkFrameWndProc
+
